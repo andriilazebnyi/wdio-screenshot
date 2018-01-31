@@ -31,10 +31,10 @@ exports.config = {
   },
   services: ['selenium-standalone'],
   seleniumArgs: {
-    version: '3.0.1'
+    version: '3.8.1'
   },
   seleniumInstallArgs: {
-    version: '3.0.1',
+    version: '3.8.1',
     logger: console.log
   }
 };
