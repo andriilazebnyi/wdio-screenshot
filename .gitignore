@@ -8,4 +8,4 @@ yarn.lock
 
 # project
 .tmp
-lib
+# lib
